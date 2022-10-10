@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MineSweeper</string>
+    <string name="switchFlag">Flag</string>
+    <string name="switchClick">Click</string>
+    <string name="reset">Reset</string>
+    <string name="you_lost">YOU LOST!</string>
+    <string name="board_size">BOARD SIZE:</string>
+    <string name="toggle_click_flag">TOGGLE CLICK/FLAG</string>
+    <string name="you_won">YOU WON!</string>
+    <string name="large">Large</string>
+    <string name="medium">medium</string>
+    <string name="small">small</string>
+
+</resources>
